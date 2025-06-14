@@ -20,4 +20,3 @@ Parallel wurde für MKElektroplanung GmbH ein Angular-Projekt gestartet, das mit
 ## Technologische Grundlage
 - WordPress CMS (für Hauptseite)
 - HTML, CSS, PHP (WordPress-Theme-Anpassung)
-- Angular CLI 15.0.1 (für zukünftige Web-Applikationen)
